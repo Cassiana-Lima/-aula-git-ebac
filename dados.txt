@@ -1,12 +1,14 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Cassiana 
+-Profissão: Atendente
+-Cidade: Frankfurt am Main 
+-O que faz nas horas vagas: Leio, estudo, assisto tv ou viajo.
+-Feedback sobre o curso Qualidade de Software: Ótimo curso 
+-Feedback sobre a plataforma de estudo da EBAC: Ótima plataforma
 
 Obrigado!!!
+
+Obrigada a vocesss 
 
 
